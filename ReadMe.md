@@ -1,10 +1,11 @@
-This is a test file. 
+<!DOCTYPE html>
+<html>
+<body>
+	<h1>This is a test file.</h1> 
 
 
-Read this now. 
+	<p> Read this now. 
 
-hello
-
-Hello this is Amy's branch 
-
-<h1> HELLO </h1>
+		hello </p>
+    <h1> HELLO </h1>
+    </body>
