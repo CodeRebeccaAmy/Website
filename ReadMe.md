@@ -7,4 +7,8 @@
 	</p>
     <h1> HELLO </h1>
     <h2>That was fun</h2>
+    <p> this is the body of the text. it provides space for more information</p>
+    <h3>new section</h3>
+    <p> its almost the end of the session<p>
     </body>
+
