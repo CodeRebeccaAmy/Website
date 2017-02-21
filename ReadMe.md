@@ -1,6 +1,10 @@
-This is a test file. 
+<!DOCTYPE html>
+<html>
+<body>
+	<h1>This is a test file.</h1> 
 
 
-Read this now. 
+	<p> Read this now. 
 
-hello
+		hello </p>
+</body>
