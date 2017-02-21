@@ -6,4 +6,5 @@
 		hello 
 	</p>
     <h1> HELLO </h1>
+    <h2>That was fun</h2>
     </body>
